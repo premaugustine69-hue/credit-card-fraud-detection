@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub - download from Kaggle, see README)
+creditcard.csv
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets / OS files
+.env
+.DS_Store
